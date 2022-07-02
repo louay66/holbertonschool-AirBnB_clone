@@ -3,7 +3,7 @@
 from models.base_model import BaseModel
 
 
-class City(BaseModel):
+lass City(BaseModel):
     """
     User class, inherits from BaseModel,
     contains public attributes
