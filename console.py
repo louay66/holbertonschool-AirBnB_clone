@@ -12,7 +12,7 @@ from models import storage
 from datetime import datetime
 
 
-lass HBNBCommand(cmd.Cmd):
+class HBNBCommand(cmd.Cmd):
     """  HBNBCommand is like console to mange project"""
     prompt = "(hbnb)"
 
