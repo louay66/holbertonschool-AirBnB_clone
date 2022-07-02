@@ -3,7 +3,7 @@
 from models.base_model import BaseModel
 
 
-lass Amenity(BaseModel):
+class Amenity(BaseModel):
     """
     User class, inherits from BaseModel,
     contains public attributes
