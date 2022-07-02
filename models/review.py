@@ -8,6 +8,6 @@ class Review(BaseModel):
     User class, inherits from BaseModel,
     contains public attributes
     """
-    place = ""
+    place_id = ""
     user_id = ""
     text = ""
