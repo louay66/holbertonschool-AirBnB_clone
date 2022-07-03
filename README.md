@@ -1,7 +1,7 @@
 # holbertonschool-AirBnB_clone
 # description
 
- airbnb is an American company that operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities. Based in San Francisco, California, the platform is accessible via website and mobile app
+ airbnb is an American company that operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities. Based in San Francisco, California, the platform is accessible via website and mobile app but currently, our project simply implements the back-end console 
 
 ## how to use our Airbnb clone
 
