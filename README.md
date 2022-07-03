@@ -3,6 +3,8 @@
 
  airbnb is an American company that operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities. Based in San Francisco, California, the platform is accessible via website and mobile app but currently, our project simply implements the back-end console 
 
+![815046647d23428a14ca](https://user-images.githubusercontent.com/98315633/177059385-35cfd7ad-4d79-4317-b7aa-dd967b415633.png)
+
 ## how to use our Airbnb clone
 
 ```python
