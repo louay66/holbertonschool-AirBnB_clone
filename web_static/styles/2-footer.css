@@ -1,0 +1,11 @@
+footer {
+	background-color: green;
+	height: 60px;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+}
+footer > h3 {
+	position: fixed;
+	left: 50%;
+}
